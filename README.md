@@ -12,7 +12,7 @@ It will have a clean and polished user interface that is responsive, ensuring th
 [Link to deployed application](https://bennasabir.github.io/workday-scheduler/)
 
 Image showcasing the WorkDay-Scheduler landing page
-<img src=./assets/images/screenshot.png>
+<img src=./assets/images/screenshot1.png>
 
 ## Technologies
 Project is created with 

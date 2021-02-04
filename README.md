@@ -1,4 +1,4 @@
-# workday-scheduler
+# WORKDAY-SCHEDULER
 A simple calendar application that allows a user to save events for each hour of the working day.
 
 ## Table Of Content

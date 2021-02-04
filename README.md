@@ -23,7 +23,7 @@ Project is created with
 * [jQuery](https://jquery.com)
 * [Moment.js](https://momentjs.com/)
 * [GoogleFonts](https://fonts.google.com/)
-* [FontAwesome] (https://fontawesome.com/)
+* [FontAwesome](https://fontawesome.com/)
 
 ## Setup
 * No special setup requirement

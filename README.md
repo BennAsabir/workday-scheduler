@@ -16,14 +16,14 @@ Image showcasing the WorkDay-Scheduler landing page
 
 ## Technologies
 Project is created with 
-* Html
-* Css
-* Bootstrap
-* Javascript
-* jQuery
-* Moment.js
-* Font Awesome
-* Google Fonts
+* [Html](https://html.com/)
+* [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Bootstrap](https://getbootstrap.com/)
+* [Javascript](https://www.javascript.com/)
+* [jQuery](https://jquery.com)
+* [Moment.js](https://momentjs.com/)
+* [GoogleFonts](https://fonts.google.com/)
+* [FontAwesome] (https://fontawesome.com/)
 
 ## Setup
 * No special setup requirement
